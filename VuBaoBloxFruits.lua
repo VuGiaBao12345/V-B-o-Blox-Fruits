@@ -2,8 +2,8 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
 
        local Window = MakeWindow({
          Hub = {
-         Title = "TBoy Roblox",
-         Animation = "Youtube: TBoy Roblox"
+         Title = "Vũ Bảo Blox Fruits",
+         Animation = "Vũ Bảo Blox Fruits"
          },
         Key = {
         KeySystem = false,
@@ -21,7 +21,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
   })
 
        MinimizeButton({
-       Image = "http://www.roblox.com/asset/?id=83190276951914",
+       Image = "http://www.roblox.com/asset/?id=387389873",
        Size = {60, 60},
        Color = Color3.fromRGB(10, 10, 10),
        Corner = true,
